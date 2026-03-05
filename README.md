@@ -100,6 +100,11 @@ let tracker = OCSort(
 )
 ```
 
+## Documentation
+
+Full API documentation is available at:
+https://kadu-v.github.io/JTrackers/documentation/jtrackers/
+
 ## License
 
 See [LICENSE](LICENSE) for details.
