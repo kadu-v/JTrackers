@@ -1,5 +1,7 @@
 # JTrackers
 
+[![Documentation](https://img.shields.io/badge/Documentation-DocC-blue)](https://kadu-v.github.io/JTrackers/documentation/jtrackers/)
+
 A multi-object tracking library for Swift, powered by a Rust-based tracking engine.
 
 Provides three tracking algorithms:
